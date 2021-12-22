@@ -1,2 +1,1 @@
-# friendly-octo-enigma
-what even is this name
+learning how this works through a tutorial
